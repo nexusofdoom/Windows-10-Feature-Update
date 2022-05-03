@@ -8,6 +8,4 @@ powershell .\Windows_10_X64_Update_Script.ps1
 
 powershell Set-ExecutionPolicy  restricted
 
-#del C:\Windows\Temp\Windows_10_X64_Update_Script.ps1
-
-#del C:\Windows\Temp\Update.bat
+del C:\Windows\Temp\Windows_10_X64_Update_Script.ps1
